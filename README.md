@@ -1,4 +1,7 @@
-### Hi there 👋
+
+[![]()
+
+<h1 align='center'> Hello! 👋 </h1>
 
 <!--
 **DournauxNathan/DournauxNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align='center'>
+I'm Nathan. Nice to meet you !
+</p>
+<!--<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>-->
+
+<h1 align='center'><i>Be Safe!</i></h1>
