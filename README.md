@@ -1,5 +1,6 @@
 
-[![]()
+
+<!--[![]()-->
 
 <h1 align='center'> Hello! 👋 </h1>
 
@@ -21,6 +22,5 @@ Here are some ideas to get you started:
 <p align='center'>
 I'm Nathan. Nice to meet you !
 </p>
-<!--<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>-->
 
 <h1 align='center'><i>Be Safe!</i></h1>
