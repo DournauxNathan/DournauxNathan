@@ -1,26 +1,14 @@
-
-
 <!--[![]()-->
 
 <h1 align='center'> Hello! 👋 </h1>
+""I'm a Game Programmer, a Unity Developper and just a enthousiatic Game Designer! ""
 
-<!--
-**DournauxNathan/DournauxNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a VR Shooting Game about shooting arrow and defend a castle
+- 👯 I’m looking to become a Unity Developper for new innovative projects!
+- ⚡ Fun fact: I love eating pastries 
 
-Here are some ideas to get you started:
+<h2>Connect with me :</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align='center'>
-I'm Nathan. Nice to meet you !
-</p>
+<h2>My Skills: </h2>
 
 <h1 align='center'><i>Be Safe!</i></h1>
