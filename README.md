@@ -1,4 +1,4 @@
-<!--[![]()-->
+<!--[![]()
 
 <h1 align='center'> Hello! 👋 </h1>
 
@@ -12,4 +12,4 @@
 
 <h2>My Skills: </h2>
 
-<h1 align='center'><i>Be Safe!</i></h1>
+<h1 align='center'><i>Be Safe!</i></h1>-->
