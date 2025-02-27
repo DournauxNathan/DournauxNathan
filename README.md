@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Nathan Dournaux!
+# 👋 Hey there! I'm Nathan!
 
 Passionate about coding, problem-solving, and game development, I thrive on building engaging and immersive experiences. From low-level optimizations in C to gameplay mechanics in Unity, I love exploring new technologies and pushing creative boundaries.  
 
