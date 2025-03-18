@@ -1,6 +1,8 @@
 # 👋 Hey there! I'm Nathan!
 
-Passionate about coding, problem-solving, and game development, I thrive on building engaging and immersive experiences. From low-level optimizations in C to gameplay mechanics in Unity, I love exploring new technologies and pushing creative boundaries.  
+Passionate about game development and interactive experiences, I specialize in Unity and love experimenting with new technologies. Whether it's gameplay design, ECS systems, or physics simulations, I'm always looking for ways to push creativity and optimization further.
+
+Curious and eager to learn, I enjoy exploring different languages and tools to expand my skill set. Always up for discussions, testing ideas, and building innovative projects! 🚀
 
 <p align="center">
 🎮 <strong>Game Dev Enthusiast</strong> | 🛠 <strong>Tech Explorer</strong> | 🐻 <strong>Teddy Bear Overlord</strong>
